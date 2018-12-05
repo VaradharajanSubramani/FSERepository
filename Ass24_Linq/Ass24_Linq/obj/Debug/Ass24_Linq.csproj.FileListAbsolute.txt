@@ -1,0 +1,6 @@
+c:\users\subramaniva\documents\visual studio 2015\Projects\Ass24_Linq\Ass24_Linq\bin\Debug\Ass24_Linq.exe.config
+c:\users\subramaniva\documents\visual studio 2015\Projects\Ass24_Linq\Ass24_Linq\bin\Debug\Ass24_Linq.exe
+c:\users\subramaniva\documents\visual studio 2015\Projects\Ass24_Linq\Ass24_Linq\bin\Debug\Ass24_Linq.pdb
+c:\users\subramaniva\documents\visual studio 2015\Projects\Ass24_Linq\Ass24_Linq\obj\Debug\Ass24_Linq.csprojResolveAssemblyReference.cache
+c:\users\subramaniva\documents\visual studio 2015\Projects\Ass24_Linq\Ass24_Linq\obj\Debug\Ass24_Linq.exe
+c:\users\subramaniva\documents\visual studio 2015\Projects\Ass24_Linq\Ass24_Linq\obj\Debug\Ass24_Linq.pdb
